@@ -158,5 +158,13 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
+  },
+  {
+    "id": "ikun",
+    "name": "🎬iKun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
   }
 ]
