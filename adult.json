@@ -304,6 +304,14 @@
     "priority": 5
   },
   {
+    "id": "taohua",
+    "name": "🔞桃花资源",
+    "baseUrl": "https://thzy1.me/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "souav",
     "name": "🔞souavZY",
     "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
@@ -312,21 +320,12 @@
     "priority": 5
   },
   {
-    "id": "taohua",
-    "name": "🔞桃花资源",
-    "baseUrl": "https://thzy1.me/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "shayu",
     "name": "🔞鲨鱼资源",
     "baseUrl": "https://shayuapi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 103,
+    "priority": 104,
     "_comment": "超时/宕机"
   },
   {
@@ -335,7 +334,7 @@
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 118,
+    "priority": 119,
     "_comment": "搜索无结果"
   },
   {
@@ -344,8 +343,8 @@
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 118,
-    "_comment": "超时/宕机"
+    "priority": 119,
+    "_comment": "搜索无结果"
   },
   {
     "id": "kxgav",
@@ -353,17 +352,8 @@
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 118,
+    "priority": 119,
     "_comment": "搜索无结果"
-  },
-  {
-    "id": "piaoling",
-    "name": "🎬飘零资源",
-    "baseUrl": "https://p2100.net/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "超时/宕机"
   },
   {
     "id": "dbzy",
@@ -400,6 +390,15 @@
     "enabled": false,
     "priority": 130,
     "_comment": "接口解析错误"
+  },
+  {
+    "id": "piaoling",
+    "name": "🎬飘零资源",
+    "baseUrl": "https://p2100.net/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "超时/宕机"
   },
   {
     "id": "bdzy",
